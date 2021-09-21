@@ -1,0 +1,52 @@
+/* 
+  Localizable.strings
+  rpodmp-6
+
+  Created by Denis Duzh on 2/12/21.
+  
+*/
+
+"Name" = "Name";
+"Name:" = "Name:";
+"Email" = "Email";
+"Email:" = "Email:";
+"Password" = "Password";
+"Sign in" = "Sign in";
+"Don't have an account? Sign up" = "Don't have an account? Sign up";
+"Primary Information" = "Primary Information";
+"Band" = "Band";
+"Band:" = "Band:";
+"Album" = "Album";
+"Album:" = "Album:";
+"Year" = "Year";
+"Duration" = "Duration";
+"Duration:" = "Duration:";
+"Minutes" = "Minutes";
+"Seconds" = "Seconds";
+"Sign up" = "Sign up";
+"Map" = "Map";
+"Songs" = "Songs";
+"Options" = "Options";
+"Language" = "Language";
+"Color" = "Color";
+"Font" = "Font";
+"Size" = "Size";
+"Dark mode" = "Dark mode";
+"Sign out" = "Sign out";
+"Open in Spotify" = "Open in Spotify";
+"Details" = "Details";
+"Images" = "Images";
+"Delete" = "Delete";
+"Remove" = "Remove";
+"Location" = "Location";
+"Latitude" = "Latitude";
+"Longitude" = "Longitude";
+"Video" = "Video";
+"Upload image" = "Upload image";
+"Optional" = "Optional";
+"Lyrics" = "Lyrics";
+"Lyrics:" = "Lyrics:";
+"Remove video" = "Remove video";
+"Edit details" = "Edit details";
+"Save" = "Save";
+"Edit" = "Edit";

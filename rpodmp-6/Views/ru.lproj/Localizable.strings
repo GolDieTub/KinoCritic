@@ -1,0 +1,59 @@
+/* 
+  Localizable.strings
+  rpodmp-6
+
+  Created by Denis Duzh on 2/12/21.
+  
+*/
+
+"Name" = "Название";
+"Name:" = "Название:";
+"Email" = "Почта";
+"Email:" = "Почта:";
+"Password" = "Пароль";
+"Sign in" = "Войти";
+"Don't have an account? Sign up" = "Нет аккаунта? Создайте";
+"Primary Information" = "Основная информация";
+"Band" = "Группа";
+"Band:" = "Группа:";
+"Album" = "Альбом";
+"Album:" = "Альбом:";
+"Year" = "Год";
+"Year:" = "Год:";
+"Duration" = "Длительность";
+"Duration:" = "Длительность:";
+"Description" = "Описание";
+"Description:" = "Описание:";
+"Director" = "Режиссер";
+"Director:" = "Режиссер:";
+"Rating" = "Рейтинг";
+"Rating:" = "Рейтинг:";
+"Minutes" = "Минуты";
+"Seconds" = "Секунды";
+"Sign up" = "Создать аккаунт";
+"Map" = "Карта";
+"Songs" = "Песни";
+"Options" = "Настройки";
+"Language" = "Язык";
+"Color" = "Цвет";
+"Font" = "Шрифт";
+"Size" = "Размер";
+"Dark mode" = "Темная тема";
+"Sign out" = "Выйти";
+"Open in Spotify" = "Открыть в Spotify";
+"Details" = "Детали";
+"Images" = "Картинки";
+"Delete" = "Удалить";
+"Remove" = "Удалить";
+"Location" = "Местоположение";
+"Latitude" = "Широта";
+"Longitude" = "Долгота";
+"Video" = "Видео";
+"Upload image" = "Загрузить картинку";
+"Optional" = "Опционально";
+"Lyrics" = "Текст";
+"Lyrics:" = "Текст:";
+"Remove video" = "Удалить видео";
+"Edit details" = "Изменить детали";
+"Save" = "Сохранить";
+"Edit" = "Изменить";
